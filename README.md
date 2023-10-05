@@ -15,4 +15,4 @@ The data for this project is sourced from [insert data source here].
 TODO: add @github
 
 ## Supervisors
-- [Name Redacted]
+- [Maurizio Napolitano](https://github.com/napo)
